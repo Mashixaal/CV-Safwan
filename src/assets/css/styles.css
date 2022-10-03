@@ -74,8 +74,24 @@
   background-color: black;
 }
 
+.bg-gray {
+  background-color: gray;
+} 
+
+.bg-metallic-seaweed {
+  background-color: #028090;
+}
+
 .bg-beige {
   background-color: beige;
+}
+
+.bg-pale-spring-bud {
+  background-color: #F0F3BD;
+}
+
+.bg-blue {
+  background-color: #00afb9;
 }
 
 .bg-sky {
@@ -152,3 +168,5 @@
 .space-y-4 {
   margin-top: 1rem;
 }
+
+
